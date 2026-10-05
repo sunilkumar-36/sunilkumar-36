@@ -1,7 +1,10 @@
-<img width="1100" height="413" alt="148b735873cd6a80c85e4ab677c6bf9d" src="https://github.com/user-attachments/assets/4097ef6d-9a68-419f-8f32-c13c7d83d144" />
 
 
+<h1 align="center">Hey!, I'm Sunil Kumar </h1>
+<p align="center">
+ <img width="736" height="272" alt="143059725661491382" src="https://github.com/user-attachments/assets/43952b26-39b8-4446-8d20-bbb92d35c20c" />
 
+</p>
 <!--
 **sunilkumar-36/sunilkumar-36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
