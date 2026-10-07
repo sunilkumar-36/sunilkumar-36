@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey!, I'm Sunil Kumar </h1>
+<h1 align="center">Hey!, I'm Sunil Kumar. </h1>
 <p align="center">
 <img width="900" height="400" alt="videoframe_8303" src="https://github.com/user-attachments/assets/190310fc-dae3-4383-b898-2299635dc28a" />
 
